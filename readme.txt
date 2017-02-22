@@ -1,0 +1,1 @@
+This directory contains the HTML/CSS files for the positioning practice assignment at Coding Dojo. position_style.css was the solution I initially came up with. A more streamlined version of the solution is provided in position_style_key.css
